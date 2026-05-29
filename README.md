@@ -51,3 +51,14 @@ Claude will automatically use this skill.
 ## License
 
 MIT
+
+---
+
+## About the author
+
+Made by **Mikel Martinez** — follow along:
+
+- 🌐 [mikelmartinez.com](https://www.mikelmartinez.com)
+- 📸 [Instagram](https://instagram.com/professionalchameleon)
+- 🎵 [TikTok](https://tiktok.com/@professionalchameleon)
+- 📺 [YouTube](https://youtube.com/@ProfessionalChameleon)

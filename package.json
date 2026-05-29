@@ -1,0 +1,32 @@
+{
+  "name": "mac-disk-cleaner-skill",
+  "version": "1.0.1",
+  "description": "Claude Code / Cowork skill that audits and cleans Mac disk space — caches, Docker, Claude app data, and Full Disk Access audit.",
+  "main": "install.js",
+  "bin": {
+    "mac-disk-cleaner-skill": "install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skill",
+    "mac",
+    "disk",
+    "cleaner",
+    "cache",
+    "docker",
+    "cowork"
+  ],
+  "author": "Mikel Martinez",
+  "license": "MIT",
+  "files": [
+    "install.js",
+    "skill/SKILL.md"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
